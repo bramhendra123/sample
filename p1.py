@@ -4,7 +4,7 @@ if n < 0:
 elif n %2==0:
     print("even")
 else :
-    print("odd")
+    print("Odd")
     
 
         
